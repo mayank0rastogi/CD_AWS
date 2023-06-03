@@ -1,2 +1,1 @@
-# CD_AWS
-Continuous Deployment Pipeline using Github and ElasticBeanStalk
+## End to End MAchine Learning Project
